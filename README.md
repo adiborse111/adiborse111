@@ -1,1 +1,1 @@
-<a href="https://app.daily.dev/adityaborse"><img src="https://api.daily.dev/devcards/v2/iZxF5B0Y7TkpdkH37bojg.png?type=default&r=lus" width="356" alt="Aditya Borse's Dev Card"/></a>
+<a href="https://app.daily.dev/adityaborse"><img src="https://github.com/adiborse111/adiborse111/blob/main/devcard.png" width="356" alt="Aditya Borse's Dev Card"/></a>
