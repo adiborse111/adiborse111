@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ====================================================================================================================================
 
 * 🌍  I'm based in Vadodara
-* 🖥️  See my portfolio at [My Portfolio](https://https://adityaborseportfolio-aditya-borses-projects.vercel.app/)
+* 🖥️  See my portfolio at [My Portfolio](https://adityaborseportfolio-aditya-borses-projects.vercel.app/)
 * ✉️  You can contact me at [adi.borse111@gmail.com](mailto:adi.borse111@gmail.com)
 
 ### Skills
